@@ -17,3 +17,5 @@ Necessária a instalação do server Redis e da biblioteca tweepy em Python:
   ===== Tweepy =====
     Instalação:
       pip install tweepy
+    Outras Informações:
+      https://github.com/tweepy/tweepy
